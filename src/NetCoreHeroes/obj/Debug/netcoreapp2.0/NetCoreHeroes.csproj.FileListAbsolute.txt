@@ -1,0 +1,10 @@
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/bin/Debug/netcoreapp2.0/NetCoreHeroes.deps.json
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/bin/Debug/netcoreapp2.0/NetCoreHeroes.runtimeconfig.json
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/bin/Debug/netcoreapp2.0/NetCoreHeroes.runtimeconfig.dev.json
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/bin/Debug/netcoreapp2.0/NetCoreHeroes.dll
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/bin/Debug/netcoreapp2.0/NetCoreHeroes.pdb
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/obj/Debug/netcoreapp2.0/NetCoreHeroes.csproj.CoreCompileInputs.cache
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/obj/Debug/netcoreapp2.0/NetCoreHeroes.AssemblyInfoInputs.cache
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/obj/Debug/netcoreapp2.0/NetCoreHeroes.AssemblyInfo.cs
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/obj/Debug/netcoreapp2.0/NetCoreHeroes.dll
+/root/dotnet/NetCoreHeroes/src/NetCoreHeroes/obj/Debug/netcoreapp2.0/NetCoreHeroes.pdb

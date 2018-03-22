@@ -1,0 +1,50 @@
+{
+  "name": "net-core-heroes",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "npm run webpack:vendor",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "webpack": "webpack --mode development --config webpack.config.js",
+    "webpack:vendor": "webpack --mode development --config webpack.config.vendor.js",
+    "karma": "karma start"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^5.2.3",
+    "@angular/compiler": "^5.2.3",
+    "@angular/core": "^5.2.3",
+    "@angular/forms": "^5.2.3",
+    "@angular/http": "^5.2.3",
+    "@angular/platform-browser": "^5.2.3",
+    "@angular/platform-browser-dynamic": "^5.2.3",
+    "@angular/router": "^5.2.3",
+    "core-js": "^2.5.3",
+    "reflect-metadata": "^0.1.12",
+    "rxjs": "^5.5.6",
+    "zone.js": "^0.8.20",
+    "es6-shim": "^0.35.3"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.35",
+    "@types/jasmine": "^2.5.43",
+    "@types/node": "^6.0.42",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "^3.4.1",
+    "css-loader": "^0.26.1",
+    "html-loader": "^0.4.4",
+    "jasmine-core": "^2.6.2",
+    "karma": "^1.7.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-junit-reporter": "^1.2.0",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "karma-typescript": "^3.0.12",
+    "raw-loader": "^0.5.1",
+    "remap-istanbul": "^0.11.0",
+    "style-loader": "^0.13.1",
+    "systemjs": "^0.19.27",
+    "to-string-loader": "^1.1.5",
+    "typescript": "^2.6.2",
+    "webpack": "^2.2.1"
+  }
+}

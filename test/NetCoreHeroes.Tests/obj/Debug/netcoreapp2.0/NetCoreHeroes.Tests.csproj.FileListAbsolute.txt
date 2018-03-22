@@ -1,0 +1,15 @@
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/NetCoreHeroes.Tests.deps.json
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/NetCoreHeroes.Tests.runtimeconfig.json
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/NetCoreHeroes.Tests.runtimeconfig.dev.json
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/NetCoreHeroes.Tests.dll
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/NetCoreHeroes.Tests.pdb
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/NetCoreHeroes.dll
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/bin/Debug/netcoreapp2.0/NetCoreHeroes.pdb
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/obj/Debug/netcoreapp2.0/NetCoreHeroes.Tests.csproj.CoreCompileInputs.cache
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/obj/Debug/netcoreapp2.0/NetCoreHeroes.Tests.AssemblyInfoInputs.cache
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/obj/Debug/netcoreapp2.0/NetCoreHeroes.Tests.AssemblyInfo.cs
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/obj/Debug/netcoreapp2.0/NetCoreHeroes.Tests.dll
+/root/dotnet/NetCoreHeroes/test/NetCoreHeroes.Tests/obj/Debug/netcoreapp2.0/NetCoreHeroes.Tests.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="03/22/2018 15:43:15">
+  <assembly name="NetCoreHeroes.Tests.dll" environment="64-bit .NET Standard [collection-per-class, parallel (4 threads)]" test-framework="xUnit.net 2.3.1.3858" run-date="2018-03-22" run-time="15:43:14" total="1" passed="1" failed="0" skipped="0" time="1.418" errors="0">
+    <errors />
+    <collection total="1" passed="1" failed="0" skipped="0" name="Test collection for NetCoreHeroes.Tests.Controllers.HeroesControllerTests+Get" time="1.143">
+      <test name="NetCoreHeroes.Tests.Controllers.HeroesControllerTests+Get.ReturnResults" type="NetCoreHeroes.Tests.Controllers.HeroesControllerTests+Get" method="ReturnResults" time="1.142539" result="Pass" />
+    </collection>
+  </assembly>
+</assemblies>

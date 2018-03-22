@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<testsuite name="PhantomJS 2.1.1 (Linux 0.0.0)" package="" timestamp="2018-03-22T09:12:12" id="0" hostname="slyvester.dattel.local" tests="7" errors="0" failures="0" time="0.318">
+<testsuite name="PhantomJS 2.1.1 (Linux 0.0.0)" package="" timestamp="2018-03-22T09:48:39" id="0" hostname="slyvester.dattel.local" tests="7" errors="0" failures="0" time="0.377">
   <properties>
     <property name="browser.fullName" value="Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
   </properties>
-  <testcase name="HeroService can instantiate service when inject service" time="0.108" classname="HeroService"/>
-  <testcase name="HeroService can instantiate service with &quot;new&quot;" time="0.046" classname="HeroService"/>
-  <testcase name="HeroService can provide the mockBackend as XHRBackend" time="0.027" classname="HeroService"/>
-  <testcase name="HeroService getHeroes should have expected fake heroes" time="0.045" classname="HeroService"/>
-  <testcase name="HeroService getHeroes should be OK returning no heroes" time="0.022" classname="HeroService"/>
-  <testcase name="HeroService request update should call PUT when hero has id" time="0.022" classname="HeroService"/>
-  <testcase name="HeroService request create should call POST when hero has no id" time="0.048" classname="HeroService"/>
+  <testcase name="HeroService can instantiate service when inject service" time="0.147" classname="HeroService"/>
+  <testcase name="HeroService can instantiate service with &quot;new&quot;" time="0.055" classname="HeroService"/>
+  <testcase name="HeroService can provide the mockBackend as XHRBackend" time="0.029" classname="HeroService"/>
+  <testcase name="HeroService getHeroes should have expected fake heroes" time="0.049" classname="HeroService"/>
+  <testcase name="HeroService getHeroes should be OK returning no heroes" time="0.023" classname="HeroService"/>
+  <testcase name="HeroService request update should call PUT when hero has id" time="0.038" classname="HeroService"/>
+  <testcase name="HeroService request create should call POST when hero has no id" time="0.036" classname="HeroService"/>
   <system-out>
     <![CDATA[
 ]]>
